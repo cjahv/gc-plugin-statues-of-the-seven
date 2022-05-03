@@ -1,0 +1,8 @@
+{
+  "name": "WakeUpStatuesOfTheSeven",
+  "description": "Grasscutter Statues of The Seven Plugin",
+  "version": "dev-1.0.0",
+  
+  "mainClass": "com.jahv.wusots.WakeUpPlugin",
+  "authors": ["jahv"]
+}
